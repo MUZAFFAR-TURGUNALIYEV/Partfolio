@@ -4,10 +4,8 @@
 }
 .menu{
     
-    position: absolute;
-    right: 0;
-    top:0;
-    margin: 20px 20px 0 0;
+    border:none;
+    line-height:none;
 }
 .a{
    text-decoration: none;
